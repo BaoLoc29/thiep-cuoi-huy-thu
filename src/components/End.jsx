@@ -11,7 +11,7 @@ const End = ({ code }) => {
     setLoading(true);
     try {
       const res = await fetch(
-        "https://script.google.com/macros/s/AKfycbzfSQEjWVs1N_2tIv9U1jPZ6Ic6eZ8cBj-xby5IJ8y_RoSKNtESHmmONJ9d81UU1M_ytA/exec",
+        "https://script.google.com/macros/s/AKfycbz4Dr2hXBRpGW_4g3itDOJnYgpnBHnBDzmMHJz1o1t3LewDbyP-RsZbKxR686_37ECUpA/exec",
         {
           method: "POST",
           body: JSON.stringify({
@@ -259,7 +259,7 @@ const End = ({ code }) => {
             text-center
           "
         >
-          <p className="text-6xl font-amsterdam text-white drop-shadow-2xl mb-6">
+          <p className="text-[55px] font-amsterdam text-white drop-shadow-2xl mb-6">
             Hoàng Huy & Anh Thư
           </p>
 

@@ -62,7 +62,7 @@ function Hero() {
           <p
             className={`
               font-amsterdam
-              text-7xl
+              text-[65px]
               mb-0
               tracking-[2px]
               transform-gpu

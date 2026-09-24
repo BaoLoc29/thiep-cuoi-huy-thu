@@ -60,8 +60,12 @@ const Main = () => {
             `}
           >
             <p className="mb-2 font-cafeta text-lg">NHÀ GÁI</p>
-            <p className="mb-0 uppercase font-cafeta text-lg">Ông Nguyễn Văn Định</p>
-            <p className="mb-0 uppercase font-cafeta text-lg">Bà Nguyễn Thị Trinh</p>
+            <p className="mb-0 uppercase font-cafeta text-lg">
+              Ông Nguyễn Văn Định
+            </p>
+            <p className="mb-0 uppercase font-cafeta text-lg">
+              Bà Nguyễn Thị Trinh
+            </p>
             <p className="mb-0 font-mono text-sm tracking-[1px]">
               Phú Hữu, An Giang
             </p>
@@ -77,14 +81,14 @@ const Main = () => {
         </div>
 
         {/* box cô dâu & chú rể */}
-        <div className="w-full flex justify-between">
+        <div className="w-full flex justify-around gap-5">
           <div>
             <p className="mb-2 font-cormorant text-xl">TRƯỞNG NAM</p>
             <p
               className={`
-                text-[55px]
+                text-[42px]
                 font-amsterdam
-                mb-0
+                mb-2
                 transform-gpu
                 will-change-transform
                 transition-[transform,opacity]
@@ -100,9 +104,9 @@ const Main = () => {
             <p className="mb-2 font-cormorant text-xl">ÚT NỮ</p>
             <p
               className={`
-                text-[55px]
+                text-[42px]
                 font-amsterdam
-                mb-0
+                mb-2
                 transform-gpu
                 will-change-transform
                 transition-[transform,opacity]
@@ -111,7 +115,7 @@ const Main = () => {
                 ${show ? "opacity-100 translate-y-0" : "opacity-0 translate-y-16"}
               `}
             >
-              Nguyễn Thị Anh Thư
+              Nguyễn T, Anh Thư
             </p>
           </div>
         </div>
