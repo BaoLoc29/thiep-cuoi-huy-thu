@@ -72,7 +72,7 @@ const TimeLine = ({ guestName }) => {
       <div className="flex gap-2 items-center py-4">
         <div className="flex-1 justify-center">
           <img
-            src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389561/DSC_5062.webp"
+            src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329289/DSC04319.webp"
             alt="album 1"
             className={`
               w-full
@@ -89,7 +89,7 @@ const TimeLine = ({ guestName }) => {
 
         <div className="flex-[1.2] justify-center">
           <img
-            src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389564/DSC_BOTTOM.webp"
+            src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329286/DSC05136.webp"
             alt="album 2"
             className={`
               w-full
@@ -110,7 +110,7 @@ const TimeLine = ({ guestName }) => {
 
         <div className="flex-1 justify-center">
           <img
-            src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389561/DSC_5109.webp"
+            src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329281/DSC04571.webp"
             alt="album 3"
             className={`
               w-full

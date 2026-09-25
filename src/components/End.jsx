@@ -241,8 +241,8 @@ const End = ({ code }) => {
 
       <div className="relative overflow-hidden mt-6">
         <img
-          src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389564/DSC_BOTTOM.webp"
-          alt="chú rể"
+          src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329333/DSC06019.webp"
+          alt="bottom img"
           className="w-full h-auto block"
         />
 

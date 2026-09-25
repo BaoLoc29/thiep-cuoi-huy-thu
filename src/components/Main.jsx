@@ -123,7 +123,7 @@ const Main = () => {
       <div className="flex bg-gray-100 gap-3 p-3">
         <div className="flex justify-center w-1/2">
           <img
-            src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389559/CHURE.webp"
+            src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329296/DSC05572.webp"
             alt="chú rể"
             className={`
               w-full
@@ -140,7 +140,7 @@ const Main = () => {
 
         <div className="flex justify-center w-1/2">
           <img
-            src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389561/CODAU.webp"
+            src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329326/DSC05942.webp"
             alt="codau"
             className={`
               w-full

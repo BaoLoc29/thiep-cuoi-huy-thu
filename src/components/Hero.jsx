@@ -15,7 +15,7 @@ function Hero() {
     <section className="relative overflow-hidden">
       {/* Ảnh */}
       <img
-        src="https://res.cloudinary.com/dnmv7dodn/image/upload/v1787389561/DSC_TOP.webp"
+        src="https://res.cloudinary.com/du2bvevz/image/upload/v1790329287/DSC05076.webp"
         alt="Ảnh cưới"
         className="w-full h-auto block"
       />
