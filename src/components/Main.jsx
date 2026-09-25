@@ -61,7 +61,7 @@ const Main = () => {
           >
             <p className="mb-2 font-cafeta text-lg">NHÀ GÁI</p>
             <p className="mb-0 uppercase font-cafeta text-lg">
-              Ông Nguyễn Văn Định
+              Ông Nguyễn Văn Bình
             </p>
             <p className="mb-0 uppercase font-cafeta text-lg">
               Bà Nguyễn Thị Trinh
